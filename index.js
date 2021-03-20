@@ -15,4 +15,3 @@ largestSubarraySum([-1, -1, -5, -3, -7, -4, -5, -6, -100, -4]) // returns 0
 //this.timeout(timeLimit)
 let array = new Array(1000).fill(1);
 largestSubarraySum(array) // returns 1000 within the O(n) time limit
-
